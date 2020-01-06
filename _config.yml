@@ -4,7 +4,7 @@
 
 # Site
 title: John生活志
-subtitle: ''
+subtitle: '希望老了以后，我们一起回顾此生'
 description: ''
 keywords:
 author: John Diamond
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: landfarz
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
